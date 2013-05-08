@@ -4,6 +4,8 @@ import java.awt.*;
 import javax.swing.*;
 
 public class MainPanel extends JApplet {
+	private static final long serialVersionUID = 1L;
+	
 	// sets window size
 	private int APPLET_WIDTH = 1000, APPLET_HEIGHT = 1000;
 	private JTabbedPane tPane;

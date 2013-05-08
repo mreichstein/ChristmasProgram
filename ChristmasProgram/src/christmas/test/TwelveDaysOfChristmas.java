@@ -8,6 +8,8 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 
 public class TwelveDaysOfChristmas extends JPanel {
+	private static final long serialVersionUID = 1L;
+	
 	public JLabel label1;
 	
 	// GUI components
